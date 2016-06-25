@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "health.directory.path",
+    "type": "java.lang.String",
+    "description": "Path where the Health Indicator will take action"
+  },
+  {
+    "name": "health.directory.threshold.bytes",
+    "type": "java.lang.Long",
+    "description": "The threshold in bytes"
+  }
+]}
